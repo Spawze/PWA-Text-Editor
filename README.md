@@ -6,7 +6,7 @@ A text editor that saves your data to IndexDB. You are able to download and inst
 
 ## Installation
 
-If you would like to download and run the server on your local machine, you will need node installed. Before starting the server, run 'npm i' in the console to install the dependencies, then run 'node server.js' to start the server. Then navigate to localhost:3001 on a browser.
+If you would like to download and run the server on your local machine, you will need node installed. Before starting the server, run 'npm i' in the console to install the dependencies, then run 'node server.js' to start the server. Then navigate to localhost:3000 on a browser.
  
 ## Usage
 
