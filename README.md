@@ -10,7 +10,7 @@ If you would like to download and run the server on your local machine, you will
  
 ## Usage
 
-You can view the published webpage [here](https://spawze-note-taker.herokuapp.com/notes)  
+You can view the published webpage [here](https://spawze-pwa-text-editor.herokuapp.com)  
 
 Type whatever you want into the text field. Whenever you click off, it will automatically save to IndexDB. Click the install button to download as an app on your pc.
 
