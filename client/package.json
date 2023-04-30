@@ -21,6 +21,11 @@
     "webpack-cli": "^4.8.0",
     "webpack-dev-server": "^4.0.0",
     "webpack-pwa-manifest": "^4.3.0",
+    "workbox-cacheable-response": "^6.5.4",
+    "workbox-expiration": "^6.5.4",
+    "workbox-recipes": "^6.5.4",
+    "workbox-routing": "^6.5.4",
+    "workbox-strategies": "^6.5.4",
     "workbox-webpack-plugin": "^6.2.4"
   },
   "dependencies": {
